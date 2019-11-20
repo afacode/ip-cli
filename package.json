@@ -1,0 +1,19 @@
+{
+  "name": "@afacode/ip",
+  "version": "1.0.1",
+  "description": "ip address",
+  "main": "./bin/index.js",
+  "bin": {
+    "ip": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/afacode/ip-cli.git"
+  },
+  "keywords": ["ip", "address"],
+  "author": "afacode <afacode@outlook.com>",
+  "license": "ISC"
+}
